@@ -1,0 +1,5 @@
+public class Hello{
+  public static void main(args[] str){
+    System.out.prinltn("hello world");
+  }
+}
